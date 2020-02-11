@@ -1,0 +1,57 @@
+.mainFxmlClass {
+    -fx-background-color: #000000;
+}
+.table-view{
+-fx-base:#1c0001/*#1d1d1d*/;
+-fx-control-inner-background:#1d1d1d;
+-fx-background-color:#000000;
+-fx-table-cell-border-color:transparent;
+-fx-table-header-border-color:transparent;
+-fx-padding:5;
+}
+.table-view .column-header-background{
+-fx-background-color:transparent;
+}
+.table-view .column-header,.table-view.filler{
+-fx-size:35;
+-fx-border-width:0 0 1 0;
+-fx-background-color:transparent;
+-fx-border-color:transparent transparent derive(-fx-base,80%) transparent;
+-fx-border-insets:0 10 1 0;
+}
+.table-view .column-header .label{
+-fx-font-size:20pt;
+-fx-font-family:"Segoe UI Light";
+-fx-text-fill:#FFF;
+-fx-alignment:center-left;
+-fx-opacity:1;
+}
+.button{
+-fx-padding:5 22 5 22;
+-fx-border-color:#3a3a3a;
+-fx-border-width:2;
+-fx-background-radius:0;
+-fx-background-color:#1d1d1d;
+-fx-font-family:"Segoe UI", Helvetica, Arial, sans-serif;
+-fx-font-size:12pt;
+-fx-text-fill:#d8d8d8;
+-fx-background-insets:0 0 0 0 0 1, 2;
+-fx-border-radius:5px;
+}
+.button:hover{
+-fx-background-color:#3a3a3a;
+}
+.text-input{
+-fx-background-color:#1d1d1d;
+-fx-text-fill:#FFF;
+-fx-font-family:"Segoe UI", Helvetica, Arial, sans-serif;
+-fx-font-size:12pt;
+}
+.text-input:focused{
+-fx-border-color:#660303;
+-fx-border-width:0 0 2px 0;
+}
+.button:pressed{
+-fx-background-color:#878383;
+-fx-text-fill:#1d1d1d;
+}

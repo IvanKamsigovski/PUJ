@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea54bcd-095c-4d73-9253-d1cbde0bbf8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1XGUYmbC70BVv4XB2PJZEp0HPpx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Icons" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Kontakti/src/kontakti" />
+      <recent name="$PROJECT_DIR$/Kontakti" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Kontakti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kontakti.Kontakti" />
+      <module name="Kontakti2" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kontakti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Kontakti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea54bcd-095c-4d73-9253-d1cbde0bbf8d" name="Default Changelist" comment="" />
+      <created>1580671974437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580671974437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="173" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580672411988">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="173" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.27.1301.741@65.27.1301.741" timestamp="1580672411988" />
+    <state x="498" y="104" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580672228643">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="498" y="104" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/65.27.1301.741@65.27.1301.741" timestamp="1580672228643" />
+    <state x="523" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1580672092176">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="523" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/65.27.1301.741@65.27.1301.741" timestamp="1580672092176" />
+    <state x="556" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580672104098">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="556" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/65.27.1301.741@65.27.1301.741" timestamp="1580672104098" />
+    <state x="460" y="114" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1580672041007">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="460" y="114" width="489" height="567" key="DetectedRootsChooserDialog/65.27.1301.741@65.27.1301.741" timestamp="1580672041007" />
+    <state x="337" y="141" width="735" height="513" key="FileChooserDialogImpl" timestamp="1580672502852">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="337" y="141" width="735" height="513" key="FileChooserDialogImpl/65.27.1301.741@65.27.1301.741" timestamp="1580672502852" />
+    <state width="1255" height="34" key="GridCell.Tab.0.bottom" timestamp="1581451367522">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="34" key="GridCell.Tab.0.bottom/65.27.1301.741@65.27.1301.741" timestamp="1581451367522" />
+    <state width="1255" height="34" key="GridCell.Tab.0.center" timestamp="1581451367522">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="34" key="GridCell.Tab.0.center/65.27.1301.741@65.27.1301.741" timestamp="1581451367522" />
+    <state width="1255" height="34" key="GridCell.Tab.0.left" timestamp="1581451367521">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="34" key="GridCell.Tab.0.left/65.27.1301.741@65.27.1301.741" timestamp="1581451367521" />
+    <state width="1255" height="34" key="GridCell.Tab.0.right" timestamp="1581451367522">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state width="1255" height="34" key="GridCell.Tab.0.right/65.27.1301.741@65.27.1301.741" timestamp="1581451367522" />
+    <state x="198" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1580672507369">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="198" y="27" width="1024" height="741" key="SettingsEditor/65.27.1301.741@65.27.1301.741" timestamp="1580672507369" />
+    <state x="371" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581450723532">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="371" y="224" key="com.intellij.ide.util.TipDialog/65.27.1301.741@65.27.1301.741" timestamp="1581450723532" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580673245485">
+      <screen x="65" y="27" width="1301" height="741" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.27.1301.741@65.27.1301.741" timestamp="1580673245485" />
+  </component>
+</project>

@@ -42,19 +42,8 @@ CREATE TABLE `kontakt` (
 INSERT INTO `kontakt` (`id`, `ime`, `prezime`, `Knjiga`) VALUES
 (1, 'Ivan', 'Kamšigovski', 'PINOKIO (Carlo Collodi)'),
 (2, 'Robert', 'Bukovac', 'Silmarillion (J.R.R. Tolkien)'),
-(3, 'Stanko', 'Zovko', 'It (Stephen King)'),
-(35, '', '', ''),
-(36, '', '', ''),
-(37, '', '', ''),
-(38, '', '', ''),
-(39, '', '', ''),
-(40, '', '', ''),
-(41, '', '', ''),
-(42, '', '', ''),
-(43, '', '', ''),
-(44, '', '', ''),
-(45, '', '', ''),
-(46, '', '', '');
+(3, 'Stanko', 'Zovko', 'It (Stephen King)');
+
 
 -- --------------------------------------------------------
 
